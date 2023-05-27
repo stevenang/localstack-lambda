@@ -1,0 +1,1 @@
+exec java -Dapplication.env=${ENVIRONMENT} -jar data-engine-lambda.jar "$@"
